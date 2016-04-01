@@ -12,19 +12,19 @@ To run using run.sh file:
 
 '''bash
 
-coding-challenge$ bash run.sh
+insight-data-challenge$ bash run.sh
 
 or
 
-coding-challenge$ ./run.sh
+insight-data-challenge$ ./run.sh
 
 
 To run it from command line:
 
 ''' bash
 
-coding-challenge$ python ./src/driver.py [INPUT JSON TWEET FILE] [OUTPUT TXT FILE]
+insight-data-challenge$ python ./src/driver.py [INPUT JSON TWEET FILE] [OUTPUT TXT FILE]
 
 e.g.
 
-coding-challenge$ python ./src/driver.py ./input_tweets/tweets.txt ./output_tweets/output.txt
+insight-data-challenge$ python ./src/driver.py ./input_tweets/tweets.txt ./output_tweets/output.txt
