@@ -7,6 +7,10 @@ Code written in Python 3 (I'm not sure if it runs for Python 2, I think you'd ne
 
 No dependencies other than standard Python libraries, including json, datetime, time, and sys. 
 
+Two files: Graph.py and driver.py.
+Graph.py: Has a class called Graph_Util that has a function that allows you to add tweets, inputting their tweets and creation times, and a function that allows you to take out tags and edges that are older than 59 seconds after most recent tweet.
+driver.py that takes 2 args, an input text file which is a bunch of 
+
 
 To run using run.sh file:
 
